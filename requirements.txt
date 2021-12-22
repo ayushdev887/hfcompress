@@ -1,0 +1,6 @@
+aiohttp
+python-decouple
+pyaesni
+https://github.com/ayushdev887/Telethon/archive/master.zip
+html_telegraph_poster
+requests
